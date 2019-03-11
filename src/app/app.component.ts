@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   nombre="Daniel";
+  nombre2 = "fernAndo alberto heRRera jimenez"
   arreglo=[1,2,3,4,5,6,7,8,9,10];
   PI = Math.PI;
   a = 0.234;
@@ -25,4 +26,5 @@ export class AppComponent {
   });
 
   fecha = new Date();
+  video = "mOeSfOJrUIk";
 }
